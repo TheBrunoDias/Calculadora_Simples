@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: var(--secondary);
+}
+
+button{
+    border: none;
+}
+
+:root{
+    --primary: #5FB6FF;
+    --secondary: #3F3D56; 
+}
